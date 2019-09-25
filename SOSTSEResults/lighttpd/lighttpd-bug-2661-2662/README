@@ -1,0 +1,12 @@
+The file test_mod_acesslog.t is the main driver program. 
+
+and put driver program test_mod_acesslog.t under src/tests/
+
+set executable permissions to driver program and run driver program using ./test_mod_acesslog.t
+
+
+command to configure the scenario:
+
+./configure --with-ldap --with-bzip2 --with-openssl --with-gdbm --with-memcache --with-webdav-props --with-webdav-locks
+
+add coverage flags (CFLAGS="-fprofile-arcs -ftest-coverage" LDFLAGS="-lgcov") to above command to measure the coverage

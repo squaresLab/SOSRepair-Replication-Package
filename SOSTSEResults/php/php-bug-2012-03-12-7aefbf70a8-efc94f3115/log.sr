@@ -1,0 +1,96 @@
+====begin test:1====
+&#34;
+====end test====
+====begin test:2====
+run-tests.sh: line 6: 16233 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&amp;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:3====
+run-tests.sh: line 10: 16234 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&lt;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:4====
+run-tests.sh: line 14: 16235 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&gt;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:5====
+run-tests.sh: line 18: 16236 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&OElig;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:6====
+run-tests.sh: line 22: 16237 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&oelig;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:7====
+run-tests.sh: line 26: 16238 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&Scaron;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:8====
+run-tests.sh: line 30: 16239 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&scaron;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:9====
+run-tests.sh: line 34: 16240 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&Yuml;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:10====
+run-tests.sh: line 38: 16241 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&circ;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:11====
+run-tests.sh: line 42: 16242 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&tilde;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:12====
+run-tests.sh: line 46: 16243 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&ensp;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:13====
+run-tests.sh: line 50: 16244 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&emsp;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:14====
+run-tests.sh: line 54: 16245 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&thinsp;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:15====
+run-tests.sh: line 58: 16246 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&zwnj;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:16====
+run-tests.sh: line 62: 16247 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&zwj;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:17====
+run-tests.sh: line 66: 16248 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&lrm;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:18====
+run-tests.sh: line 70: 16249 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&rlm;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:19====
+run-tests.sh: line 74: 16250 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&ndash;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:20====
+run-tests.sh: line 78: 16251 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&mdash;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:21====
+run-tests.sh: line 82: 16252 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&lsquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:22====
+run-tests.sh: line 86: 16253 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&rsquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:23====
+run-tests.sh: line 90: 16254 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&sbquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:24====
+run-tests.sh: line 94: 16255 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&ldquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:25====
+run-tests.sh: line 98: 16256 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&rdquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:26====
+run-tests.sh: line 102: 16257 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&bdquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:27====
+run-tests.sh: line 106: 16258 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&dagger;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:28====
+run-tests.sh: line 110: 16259 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&Dagger;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:29====
+run-tests.sh: line 114: 16260 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&permil;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:30====
+run-tests.sh: line 118: 16261 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&lsaquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:31====
+run-tests.sh: line 122: 16262 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&rsaquo;", 0, "ISO-8859-1"); echo("\n");'
+====end test====
+====begin test:32====
+run-tests.sh: line 126: 16263 Segmentation fault      (core dumped) ./php -r 'echo html_entity_decode("&euro;", 0, "ISO-8859-1"); echo("\n");'
+====end test====

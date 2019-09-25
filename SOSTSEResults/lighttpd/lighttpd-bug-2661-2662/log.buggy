@@ -1,0 +1,21 @@
+1..10
+ok 1 - Starting lighttpd
+ok 2 - test2
+ok 3 - test3
+ok 4 - test4
+ok 5 - test5
+ok 6 - test6
+# connect failed: Connection refused
+not ok 7 - test7
+#   Failed test 'test7'
+#   at ./test_mod_acesslog.t line 65.
+# connect failed: Connection refused
+not ok 8 - test8
+#   Failed test 'test8'
+#   at ./test_mod_acesslog.t line 73.
+# connect failed: Connection refused
+not ok 9 - test9
+#   Failed test 'test9'
+#   at ./test_mod_acesslog.t line 81.
+ok 10 - Stopping lighttpd
+# Looks like you failed 3 tests of 10.

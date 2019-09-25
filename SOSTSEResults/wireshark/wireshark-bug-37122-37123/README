@@ -1,0 +1,24 @@
+to compile project 
+
+./autogen
+
+./configure CLFLAGS="-fprofile-arcs -ftest-coverage" LDGLAGS="-lgcov" --disable-warnings-as-errors
+
+make
+
+to compile the buggy file
+
+cd wireshark/epan
+make 
+
+to compile driver (note driver file replaces existing test file reassemble_test.c) 
+
+set flags for coverage in Makefile under epan
+make reassemble_test (this will generate .gcno file)
+
+(since we are testing reassemble API its okay to use only this Makefile for recompiling)
+
+to run tests
+bash run-tests.sh
+
+ 

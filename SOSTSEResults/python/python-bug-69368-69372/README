@@ -1,0 +1,7 @@
+testDis.py is the driver file that also contains the tests to be executed
+
+Copy this file to the src directory and run this file using following command 
+after compiling the python project and using the python executable generated
+
+./python testDis.py
+

@@ -1,0 +1,96 @@
+====begin test:1====
+Disassembly of __init__:
+  7           0 LOAD_FAST                1 (name) 
+              3 LOAD_FAST                0 (self) 
+              6 STORE_ATTR               0 (name) 
+              9 LOAD_CONST               0 (None) 
+             12 RETURN_VALUE         
+
+Disassembly of __str__:
+ 10           0 LOAD_CONST               1 ('MyObject(%s)') 
+              3 LOAD_FAST                0 (self) 
+              6 LOAD_ATTR                0 (name) 
+              9 BINARY_MODULO        
+             10 RETURN_VALUE         
+
+====end test====
+====begin test:2====
+ 13           0 LOAD_GLOBAL              0 (len) 
+              3 LOAD_FAST                0 (args) 
+              6 CALL_FUNCTION            1 
+              9 STORE_FAST               1 (nargs) 
+
+ 14          12 LOAD_GLOBAL              1 (print) 
+             15 LOAD_FAST                1 (nargs) 
+             18 LOAD_FAST                0 (args) 
+             21 CALL_FUNCTION            2 
+             24 POP_TOP              
+             25 LOAD_CONST               0 (None) 
+             28 RETURN_VALUE         
+====end test====
+====begin test:3====
+ 17           0 LOAD_CONST               3 (54755736) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:4====
+ 20           0 LOAD_CONST               3 (100.17562724014337) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:5====
+ 23           0 LOAD_CONST               3 (608232) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:6====
+ 26           0 LOAD_CONST               3 (-63) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:7====
+ 29           0 LOAD_CONST               3 (100) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:8====
+ 32           0 LOAD_CONST               4 (0.01) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:9====
+ 35           0 LOAD_CONST               3 (941312) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:10====
+ 38           0 LOAD_CONST               3 (2) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:11====
+ 41           0 LOAD_CONST               3 (746452) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:12====
+ 44           0 LOAD_CONST               3 (96627) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:13====
+ 47           0 LOAD_CONST               2 (-74659) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:14====
+ 50           0 LOAD_CONST               3 (14446) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:15====
+ 53           0 LOAD_CONST               3 (465) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:16====
+ 56           0 LOAD_CONST               3 (1) 
+              3 RETURN_VALUE         
+====end test====
+====begin test:17====
+ 59           0 LOAD_CONST               1 Traceback (most recent call last):
+  File "test1.py", line 128, in <module>
+    dis.dis(funerror)
+  File "/experiment/src/Lib/dis.py", line 52, in dis
+    disassemble(x)
+  File "/experiment/src/Lib/dis.py", line 180, in disassemble
+    print('(' + repr(co.co_consts[oparg]) + ')', end=' ')
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 2-3: ordinal not in range(128)
+====end test====

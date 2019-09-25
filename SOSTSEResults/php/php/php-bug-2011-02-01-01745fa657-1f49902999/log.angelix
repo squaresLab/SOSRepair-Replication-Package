@@ -1,0 +1,32 @@
+====begin test:1====
+
+Array
+(
+    [dev] => 81
+    [ino] => 10263935
+    [mode] => 33188
+    [nlink] => 1
+    [uid] => 0
+    [gid] => 0
+    [rdev] => 0
+    [size] => 999
+    [atime] => 1567529099
+    [mtime] => 1567529099
+    [ctime] => 1567529100
+    [blksize] => 4096
+    [blocks] => 8
+)
+
+====end test====
+====begin test:2====
+
+Device number: 81
+====end test====
+====begin test:3====
+
+Warning: rewind(): stream does not support seeking in /experiment/src/sapi/cli/test3.php on line 52
+string(18) "line1
+line2
+line3
+"
+====end test====

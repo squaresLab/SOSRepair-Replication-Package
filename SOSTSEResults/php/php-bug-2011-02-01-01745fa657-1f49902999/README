@@ -1,0 +1,2 @@
+put all test<n>.php files and run-tests.sh file in src/sapi/cli directory
+run bash run-tests.sh to execute the tests

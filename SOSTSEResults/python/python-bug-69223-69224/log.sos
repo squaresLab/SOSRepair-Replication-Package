@@ -1,0 +1,5790 @@
+====begin test:1====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-71)
+EXIT STATUS:1
+====end test====
+====begin test:2====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-15)
+EXIT STATUS:1
+====end test====
+====begin test:3====
+EXIT STATUS:124
+====end test====
+====begin test:4====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-68)
+EXIT STATUS:1
+====end test====
+====begin test:5====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:6====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:7====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:8====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:9====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:10====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:11====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:12====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:13====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:14====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:15====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:16====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:17====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:18====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:19====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:20====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:21====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-37)
+EXIT STATUS:1
+====end test====
+====begin test:22====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-99)
+EXIT STATUS:1
+====end test====
+====begin test:23====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:24====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:25====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:26====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:27====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:28====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-44)
+EXIT STATUS:1
+====end test====
+====begin test:29====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:30====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:31====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-91)
+EXIT STATUS:1
+====end test====
+====begin test:32====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-34)
+EXIT STATUS:1
+====end test====
+====begin test:33====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:34====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-37)
+EXIT STATUS:1
+====end test====
+====begin test:35====
+EXIT STATUS:0
+====end test====
+====begin test:36====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-62)
+EXIT STATUS:1
+====end test====
+====begin test:37====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:38====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:39====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-88)
+EXIT STATUS:1
+====end test====
+====begin test:40====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:41====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:42====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:43====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:44====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:45====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:46====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-75)
+EXIT STATUS:1
+====end test====
+====begin test:47====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:48====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-59)
+EXIT STATUS:1
+====end test====
+====begin test:49====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:50====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:51====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:52====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:53====
+EXIT STATUS:124
+====end test====
+====begin test:54====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:55====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:56====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:57====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-7)
+EXIT STATUS:1
+====end test====
+====begin test:58====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:59====
+EXIT STATUS:124
+====end test====
+====begin test:60====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:61====
+EXIT STATUS:124
+====end test====
+====begin test:62====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:63====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:64====
+EXIT STATUS:124
+====end test====
+====begin test:65====
+EXIT STATUS:124
+====end test====
+====begin test:66====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:67====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-82)
+EXIT STATUS:1
+====end test====
+====begin test:68====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-90)
+EXIT STATUS:1
+====end test====
+====begin test:69====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:70====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:71====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-15)
+EXIT STATUS:1
+====end test====
+====begin test:72====
+EXIT STATUS:0
+====end test====
+====begin test:73====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:74====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-60)
+EXIT STATUS:1
+====end test====
+====begin test:75====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test====
+====begin test:76====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-82)
+EXIT STATUS:1
+====end test====
+====begin test:77====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:78====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-64)
+EXIT STATUS:1
+====end test====
+====begin test:79====
+EXIT STATUS:124
+====end test====
+====begin test:80====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:81====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-74)
+EXIT STATUS:1
+====end test====
+====begin test:82====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-82)
+EXIT STATUS:1
+====end test====
+====begin test:83====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:84====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:85====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:86====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-65)
+EXIT STATUS:1
+====end test====
+====begin test:87====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:88====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-83)
+EXIT STATUS:1
+====end test====
+====begin test:89====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-62)
+EXIT STATUS:1
+====end test====
+====begin test:90====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:91====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:92====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-17)
+EXIT STATUS:1
+====end test====
+====begin test:93====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:94====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:95====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:96====
+EXIT STATUS:124
+====end test====
+====begin test:97====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:98====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-99)
+EXIT STATUS:1
+====end test====
+====begin test:99====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:100====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:101====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:102====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-74)
+EXIT STATUS:1
+====end test====
+====begin test:103====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:104====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-30)
+EXIT STATUS:1
+====end test====
+====begin test:105====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:106====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:107====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:108====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:109====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test====
+====begin test:110====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-73)
+EXIT STATUS:1
+====end test====
+====begin test:111====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:112====
+EXIT STATUS:124
+====end test====
+====begin test:113====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:114====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-9)
+EXIT STATUS:1
+====end test====
+====begin test:115====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-29)
+EXIT STATUS:1
+====end test====
+====begin test:116====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:117====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:118====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:119====
+EXIT STATUS:124
+====end test====
+====begin test:120====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:121====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-52)
+EXIT STATUS:1
+====end test====
+====begin test:122====
+EXIT STATUS:124
+====end test====
+====begin test:123====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:124====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:125====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:126====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-94)
+EXIT STATUS:1
+====end test====
+====begin test:127====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:128====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-32)
+EXIT STATUS:1
+====end test====
+====begin test:129====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:130====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-67)
+EXIT STATUS:1
+====end test====
+====begin test:131====
+EXIT STATUS:124
+====end test====
+====begin test:132====
+EXIT STATUS:124
+====end test====
+====begin test:133====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:134====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:135====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:136====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:137====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:138====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-27)
+EXIT STATUS:1
+====end test====
+====begin test:139====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:140====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:141====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-41)
+EXIT STATUS:1
+====end test====
+====begin test:142====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:143====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:144====
+EXIT STATUS:124
+====end test====
+====begin test:145====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:146====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-90)
+EXIT STATUS:1
+====end test====
+====begin test:147====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:148====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:149====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:150====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:151====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:152====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-37)
+EXIT STATUS:1
+====end test====
+====begin test:153====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:154====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-68)
+EXIT STATUS:1
+====end test====
+====begin test:155====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:156====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:157====
+EXIT STATUS:124
+====end test====
+====begin test:158====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-46)
+EXIT STATUS:1
+====end test====
+====begin test:159====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-89)
+EXIT STATUS:1
+====end test====
+====begin test:160====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-10)
+EXIT STATUS:1
+====end test====
+====begin test:161====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:162====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-92)
+EXIT STATUS:1
+====end test====
+====begin test:163====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-22)
+EXIT STATUS:1
+====end test====
+====begin test:164====
+EXIT STATUS:124
+====end test====
+====begin test:165====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:166====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:167====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-48)
+EXIT STATUS:1
+====end test====
+====begin test:168====
+EXIT STATUS:124
+====end test====
+====begin test:169====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-29)
+EXIT STATUS:1
+====end test====
+====begin test:170====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:171====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-21)
+EXIT STATUS:1
+====end test====
+====begin test:172====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-87)
+EXIT STATUS:1
+====end test====
+====begin test:173====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:174====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:175====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:176====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-83)
+EXIT STATUS:1
+====end test====
+====begin test:177====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:178====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-28)
+EXIT STATUS:1
+====end test====
+====begin test:179====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-77)
+EXIT STATUS:1
+====end test====
+====begin test:180====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-70)
+EXIT STATUS:1
+====end test====
+====begin test:181====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:182====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:183====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:184====
+EXIT STATUS:124
+====end test====
+====begin test:185====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:186====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:187====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:188====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:189====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:190====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-79)
+EXIT STATUS:1
+====end test====
+====begin test:191====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-48)
+EXIT STATUS:1
+====end test====
+====begin test:192====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:193====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:194====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:195====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:196====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:197====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:198====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:199====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:200====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:201====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:202====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-14)
+EXIT STATUS:1
+====end test====
+====begin test:203====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:204====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:205====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-12)
+EXIT STATUS:1
+====end test====
+====begin test:206====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-99)
+EXIT STATUS:1
+====end test====
+====begin test:207====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:208====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-71)
+EXIT STATUS:1
+====end test====
+====begin test:209====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:210====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:211====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:212====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:213====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-57)
+EXIT STATUS:1
+====end test====
+====begin test:214====
+EXIT STATUS:124
+====end test====
+====begin test:215====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:216====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:217====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:218====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-93)
+EXIT STATUS:1
+====end test====
+====begin test:219====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:220====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-75)
+EXIT STATUS:1
+====end test====
+====begin test:221====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-1)
+EXIT STATUS:1
+====end test====
+====begin test:222====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:223====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:224====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-14)
+EXIT STATUS:1
+====end test====
+====begin test:225====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-63)
+EXIT STATUS:1
+====end test====
+====begin test:226====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:227====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:228====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:229====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-40)
+EXIT STATUS:1
+====end test====
+====begin test:230====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-23)
+EXIT STATUS:1
+====end test====
+====begin test:231====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:232====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-94)
+EXIT STATUS:1
+====end test====
+====begin test:233====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:234====
+EXIT STATUS:124
+====end test====
+====begin test:235====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:236====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-46)
+EXIT STATUS:1
+====end test====
+====begin test:237====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:238====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test====
+====begin test:239====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:240====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:241====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:242====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:243====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:244====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:245====
+EXIT STATUS:124
+====end test====
+====begin test:246====
+EXIT STATUS:124
+====end test====
+====begin test:247====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:248====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:249====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:250====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:251====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-72)
+EXIT STATUS:1
+====end test====
+====begin test:252====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-19)
+EXIT STATUS:1
+====end test====
+====begin test:253====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:254====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:255====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:256====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-3)
+EXIT STATUS:1
+====end test====
+====begin test:257====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:258====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:259====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:260====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:261====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:262====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:263====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-75)
+EXIT STATUS:1
+====end test====
+====begin test:264====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-37)
+EXIT STATUS:1
+====end test====
+====begin test:265====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:266====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:267====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:268====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-93)
+EXIT STATUS:1
+====end test====
+====begin test:269====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:270====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:271====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-14)
+EXIT STATUS:1
+====end test====
+====begin test:272====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:273====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:274====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:275====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:276====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-86)
+EXIT STATUS:1
+====end test====
+====begin test:277====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:278====
+EXIT STATUS:124
+====end test====
+====begin test:279====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:280====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-16)
+EXIT STATUS:1
+====end test====
+====begin test:281====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:282====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:283====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:284====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:285====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:286====
+EXIT STATUS:0
+====end test====
+====begin test:287====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-29)
+EXIT STATUS:1
+====end test====
+====begin test:288====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:289====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-73)
+EXIT STATUS:1
+====end test====
+====begin test:290====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:291====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:292====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:293====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:294====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:295====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:296====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-18)
+EXIT STATUS:1
+====end test====
+====begin test:297====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:298====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-35)
+EXIT STATUS:1
+====end test====
+====begin test:299====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-42)
+EXIT STATUS:1
+====end test====
+====begin test:300====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-76)
+EXIT STATUS:1
+====end test====
+====begin test:301====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:302====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-11)
+EXIT STATUS:1
+====end test====
+====begin test:303====
+EXIT STATUS:124
+====end test====
+====begin test:304====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:305====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-50)
+EXIT STATUS:1
+====end test====
+====begin test:306====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:307====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-34)
+EXIT STATUS:1
+====end test====
+====begin test:308====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:309====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:310====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:311====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:312====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-89)
+EXIT STATUS:1
+====end test====
+====begin test:313====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-64)
+EXIT STATUS:1
+====end test====
+====begin test:314====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:315====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-55)
+EXIT STATUS:1
+====end test====
+====begin test:316====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test====
+====begin test:317====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:318====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:319====
+EXIT STATUS:124
+====end test====
+====begin test:320====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:321====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:322====
+EXIT STATUS:124
+====end test====
+====begin test:323====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-93)
+EXIT STATUS:1
+====end test====
+====begin test:324====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:325====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:326====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:327====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:328====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:329====
+EXIT STATUS:124
+====end test====
+====begin test:330====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:331====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-84)
+EXIT STATUS:1
+====end test====
+====begin test:332====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:333====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:334====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:335====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:336====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:337====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:338====
+EXIT STATUS:124
+====end test====
+====begin test:339====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-47)
+EXIT STATUS:1
+====end test====
+====begin test:340====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:341====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:342====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:343====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:344====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:345====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-22)
+EXIT STATUS:1
+====end test====
+====begin test:346====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:347====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:348====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-6)
+EXIT STATUS:1
+====end test====
+====begin test:349====
+EXIT STATUS:124
+====end test====
+====begin test:350====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:351====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:352====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:353====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-15)
+EXIT STATUS:1
+====end test====
+====begin test:354====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:355====
+EXIT STATUS:124
+====end test====
+====begin test:356====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:357====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:358====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:359====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-25)
+EXIT STATUS:1
+====end test====
+====begin test:360====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:361====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:362====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-90)
+EXIT STATUS:1
+====end test====
+====begin test:363====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:364====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-86)
+EXIT STATUS:1
+====end test====
+====begin test:365====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:366====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:367====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:368====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:369====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:370====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:371====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:372====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:373====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-66)
+EXIT STATUS:1
+====end test====
+====begin test:374====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-58)
+EXIT STATUS:1
+====end test====
+====begin test:375====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:376====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:377====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:378====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:379====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:380====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-3)
+EXIT STATUS:1
+====end test====
+====begin test:381====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-2)
+EXIT STATUS:1
+====end test====
+====begin test:382====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:383====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-91)
+EXIT STATUS:1
+====end test====
+====begin test:384====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-22)
+EXIT STATUS:1
+====end test====
+====begin test:385====
+EXIT STATUS:0
+====end test====
+====begin test:386====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-69)
+EXIT STATUS:1
+====end test====
+====begin test:387====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-24)
+EXIT STATUS:1
+====end test====
+====begin test:388====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:389====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-98)
+EXIT STATUS:1
+====end test====
+====begin test:390====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-80)
+EXIT STATUS:1
+====end test====
+====begin test:391====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:392====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:393====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-45)
+EXIT STATUS:1
+====end test====
+====begin test:394====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:395====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:396====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-2)
+EXIT STATUS:1
+====end test====
+====begin test:397====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:398====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:399====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-32)
+EXIT STATUS:1
+====end test====
+====begin test:400====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-70)
+EXIT STATUS:1
+====end test====
+====begin test:401====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-39)
+EXIT STATUS:1
+====end test====
+====begin test:402====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-18)
+EXIT STATUS:1
+====end test====
+====begin test:403====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:404====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:405====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-83)
+EXIT STATUS:1
+====end test====
+====begin test:406====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-71)
+EXIT STATUS:1
+====end test====
+====begin test:407====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:408====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:409====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:410====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:411====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:412====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:413====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test====
+====begin test:414====
+EXIT STATUS:124
+====end test====
+====begin test:415====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-33)
+EXIT STATUS:1
+====end test====
+====begin test:416====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-6)
+EXIT STATUS:1
+====end test====
+====begin test:417====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:418====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-53)
+EXIT STATUS:1
+====end test====
+====begin test:419====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:420====
+EXIT STATUS:124
+====end test====
+====begin test:421====
+EXIT STATUS:124
+====end test====
+====begin test:422====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:423====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-33)
+EXIT STATUS:1
+====end test====
+====begin test:424====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:425====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:426====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:427====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-58)
+EXIT STATUS:1
+====end test====
+====begin test:428====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:429====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:430====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:431====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-12)
+EXIT STATUS:1
+====end test====
+====begin test:432====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:433====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:434====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:435====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-54)
+EXIT STATUS:1
+====end test====
+====begin test:436====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:437====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:438====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-53)
+EXIT STATUS:1
+====end test====
+====begin test:439====
+EXIT STATUS:124
+====end test====
+====begin test:440====
+EXIT STATUS:124
+====end test====
+====begin test:441====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-36)
+EXIT STATUS:1
+====end test====
+====begin test:442====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:443====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:444====
+EXIT STATUS:124
+====end test====
+====begin test:445====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-15)
+EXIT STATUS:1
+====end test====
+====begin test:446====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:447====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:448====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-96)
+EXIT STATUS:1
+====end test====
+====begin test:449====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:450====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:451====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:452====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:453====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:454====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:455====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:456====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:457====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-91)
+EXIT STATUS:1
+====end test====
+====begin test:458====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-14)
+EXIT STATUS:1
+====end test====
+====begin test:459====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:460====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-73)
+EXIT STATUS:1
+====end test====
+====begin test:461====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-76)
+EXIT STATUS:1
+====end test====
+====begin test:462====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:463====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-59)
+EXIT STATUS:1
+====end test====
+====begin test:464====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:465====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:466====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-26)
+EXIT STATUS:1
+====end test====
+====begin test:467====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-34)
+EXIT STATUS:1
+====end test====
+====begin test:468====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:469====
+EXIT STATUS:124
+====end test====
+====begin test:470====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:471====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-99)
+EXIT STATUS:1
+====end test====
+====begin test:472====
+EXIT STATUS:124
+====end test====
+====begin test:473====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:474====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:475====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:476====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-73)
+EXIT STATUS:1
+====end test====
+====begin test:477====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:478====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:479====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:480====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-11)
+EXIT STATUS:1
+====end test====
+====begin test:481====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-10)
+EXIT STATUS:1
+====end test====
+====begin test:482====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test====
+====begin test:483====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:484====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:485====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:486====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:487====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:488====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:489====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test====
+====begin test:490====
+EXIT STATUS:124
+====end test====
+====begin test:491====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:492====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:493====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:494====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-45)
+EXIT STATUS:1
+====end test====
+====begin test:495====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:496====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:497====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:498====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:499====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test====
+====begin test:500====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test====
+====begin test:501====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:502====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:503====
+EXIT STATUS:124
+====end test===
+====begin test:504====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:505====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:506====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-83)
+EXIT STATUS:1
+====end test===
+====begin test:507====
+EXIT STATUS:0
+====end test===
+====begin test:508====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:509====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:510====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-75)
+EXIT STATUS:1
+====end test===
+====begin test:511====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:512====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:513====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:514====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-88)
+EXIT STATUS:1
+====end test===
+====begin test:515====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-36)
+EXIT STATUS:1
+====end test===
+====begin test:516====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-45)
+EXIT STATUS:1
+====end test===
+====begin test:517====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:518====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:519====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:520====
+EXIT STATUS:124
+====end test===
+====begin test:521====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:522====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:523====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:524====
+EXIT STATUS:124
+====end test===
+====begin test:525====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:526====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:527====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-21)
+EXIT STATUS:1
+====end test===
+====begin test:528====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:529====
+EXIT STATUS:124
+====end test===
+====begin test:530====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-87)
+EXIT STATUS:1
+====end test===
+====begin test:531====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:532====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-20)
+EXIT STATUS:1
+====end test===
+====begin test:533====
+EXIT STATUS:124
+====end test===
+====begin test:534====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:535====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:536====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:537====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:538====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-52)
+EXIT STATUS:1
+====end test===
+====begin test:539====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:540====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:541====
+EXIT STATUS:124
+====end test===
+====begin test:542====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:543====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:544====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:545====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-36)
+EXIT STATUS:1
+====end test===
+====begin test:546====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:547====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:548====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:549====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:550====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:551====
+EXIT STATUS:124
+====end test===
+====begin test:552====
+EXIT STATUS:124
+====end test===
+====begin test:553====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:554====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:555====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:556====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:557====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-51)
+EXIT STATUS:1
+====end test===
+====begin test:558====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:559====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-57)
+EXIT STATUS:1
+====end test===
+====begin test:560====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:561====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-31)
+EXIT STATUS:1
+====end test===
+====begin test:562====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-72)
+EXIT STATUS:1
+====end test===
+====begin test:563====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:564====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:565====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:566====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-94)
+EXIT STATUS:1
+====end test===
+====begin test:567====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:568====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:569====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-96)
+EXIT STATUS:1
+====end test===
+====begin test:570====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-62)
+EXIT STATUS:1
+====end test===
+====begin test:571====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:572====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:573====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-60)
+EXIT STATUS:1
+====end test===
+====begin test:574====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:575====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:576====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-37)
+EXIT STATUS:1
+====end test===
+====begin test:577====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:578====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-14)
+EXIT STATUS:1
+====end test===
+====begin test:579====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-90)
+EXIT STATUS:1
+====end test===
+====begin test:580====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:581====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:582====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:583====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:584====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-29)
+EXIT STATUS:1
+====end test===
+====begin test:585====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:586====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:587====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-22)
+EXIT STATUS:1
+====end test===
+====begin test:588====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:589====
+EXIT STATUS:124
+====end test===
+====begin test:590====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:591====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:592====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:593====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:594====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:595====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-83)
+EXIT STATUS:1
+====end test===
+====begin test:596====
+EXIT STATUS:124
+====end test===
+====begin test:597====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:598====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:599====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:600====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:601====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:602====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:603====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:604====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-85)
+EXIT STATUS:1
+====end test===
+====begin test:605====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:606====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-16)
+EXIT STATUS:1
+====end test===
+====begin test:607====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:608====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-6)
+EXIT STATUS:1
+====end test===
+====begin test:609====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:610====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:611====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:612====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:613====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:614====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-19)
+EXIT STATUS:1
+====end test===
+====begin test:615====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:616====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:617====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:618====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:619====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:620====
+EXIT STATUS:124
+====end test===
+====begin test:621====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:622====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-65)
+EXIT STATUS:1
+====end test===
+====begin test:623====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:624====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:625====
+EXIT STATUS:124
+====end test===
+====begin test:626====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-3)
+EXIT STATUS:1
+====end test===
+====begin test:627====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:628====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-33)
+EXIT STATUS:1
+====end test===
+====begin test:629====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-94)
+EXIT STATUS:1
+====end test===
+====begin test:630====
+EXIT STATUS:124
+====end test===
+====begin test:631====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:632====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:633====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-69)
+EXIT STATUS:1
+====end test===
+====begin test:634====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-47)
+EXIT STATUS:1
+====end test===
+====begin test:635====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-46)
+EXIT STATUS:1
+====end test===
+====begin test:636====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-42)
+EXIT STATUS:1
+====end test===
+====begin test:637====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:638====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:639====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:640====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:641====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:642====
+EXIT STATUS:124
+====end test===
+====begin test:643====
+EXIT STATUS:124
+====end test===
+====begin test:644====
+EXIT STATUS:124
+====end test===
+====begin test:645====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:646====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:647====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:648====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:649====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:650====
+EXIT STATUS:124
+====end test===
+====begin test:651====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:652====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:653====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:654====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-98)
+EXIT STATUS:1
+====end test===
+====begin test:655====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:656====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-63)
+EXIT STATUS:1
+====end test===
+====begin test:657====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-20)
+EXIT STATUS:1
+====end test===
+====begin test:658====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:659====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:660====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:661====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:662====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-94)
+EXIT STATUS:1
+====end test===
+====begin test:663====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:664====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:665====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:666====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:667====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:668====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-34)
+EXIT STATUS:1
+====end test===
+====begin test:669====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-75)
+EXIT STATUS:1
+====end test===
+====begin test:670====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:671====
+EXIT STATUS:124
+====end test===
+====begin test:672====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-35)
+EXIT STATUS:1
+====end test===
+====begin test:673====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:674====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:675====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-24)
+EXIT STATUS:1
+====end test===
+====begin test:676====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:677====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:678====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:679====
+EXIT STATUS:124
+====end test===
+====begin test:680====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-9)
+EXIT STATUS:1
+====end test===
+====begin test:681====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:682====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-9)
+EXIT STATUS:1
+====end test===
+====begin test:683====
+EXIT STATUS:124
+====end test===
+====begin test:684====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:685====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:686====
+EXIT STATUS:124
+====end test===
+====begin test:687====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:688====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:689====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:690====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:691====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-25)
+EXIT STATUS:1
+====end test===
+====begin test:692====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-4)
+EXIT STATUS:1
+====end test===
+====begin test:693====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-3)
+EXIT STATUS:1
+====end test===
+====begin test:694====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:695====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-17)
+EXIT STATUS:1
+====end test===
+====begin test:696====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:697====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-93)
+EXIT STATUS:1
+====end test===
+====begin test:698====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:699====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:700====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:701====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:702====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:703====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:704====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:705====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:706====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:707====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:708====
+EXIT STATUS:124
+====end test===
+====begin test:709====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:710====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:711====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-92)
+EXIT STATUS:1
+====end test===
+====begin test:712====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:713====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:714====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:715====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:716====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:717====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:718====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-75)
+EXIT STATUS:1
+====end test===
+====begin test:719====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:720====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:721====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:722====
+EXIT STATUS:124
+====end test===
+====begin test:723====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-89)
+EXIT STATUS:1
+====end test===
+====begin test:724====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:725====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:726====
+EXIT STATUS:124
+====end test===
+====begin test:727====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:728====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-93)
+EXIT STATUS:1
+====end test===
+====begin test:729====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-74)
+EXIT STATUS:1
+====end test===
+====begin test:730====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-86)
+EXIT STATUS:1
+====end test===
+====begin test:731====
+EXIT STATUS:124
+====end test===
+====begin test:732====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:733====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:734====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:735====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-31)
+EXIT STATUS:1
+====end test===
+====begin test:736====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:737====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:738====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:739====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:740====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:741====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:742====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:743====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-90)
+EXIT STATUS:1
+====end test===
+====begin test:744====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:745====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-1)
+EXIT STATUS:1
+====end test===
+====begin test:746====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:747====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-46)
+EXIT STATUS:1
+====end test===
+====begin test:748====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:749====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:750====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:751====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:752====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test===
+====begin test:753====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-99)
+EXIT STATUS:1
+====end test===
+====begin test:754====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-17)
+EXIT STATUS:1
+====end test===
+====begin test:755====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:756====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-17)
+EXIT STATUS:1
+====end test===
+====begin test:757====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-1)
+EXIT STATUS:1
+====end test===
+====begin test:758====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:759====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:760====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-35)
+EXIT STATUS:1
+====end test===
+====begin test:761====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:762====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:763====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:764====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-52)
+EXIT STATUS:1
+====end test===
+====begin test:765====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-44)
+EXIT STATUS:1
+====end test===
+====begin test:766====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-46)
+EXIT STATUS:1
+====end test===
+====begin test:767====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-70)
+EXIT STATUS:1
+====end test===
+====begin test:768====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-59)
+EXIT STATUS:1
+====end test===
+====begin test:769====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-64)
+EXIT STATUS:1
+====end test===
+====begin test:770====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:771====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-51)
+EXIT STATUS:1
+====end test===
+====begin test:772====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-88)
+EXIT STATUS:1
+====end test===
+====begin test:773====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-62)
+EXIT STATUS:1
+====end test===
+====begin test:774====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-51)
+EXIT STATUS:1
+====end test===
+====begin test:775====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:776====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-42)
+EXIT STATUS:1
+====end test===
+====begin test:777====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:778====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:779====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:780====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-43)
+EXIT STATUS:1
+====end test===
+====begin test:781====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-21)
+EXIT STATUS:1
+====end test===
+====begin test:782====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:783====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-72)
+EXIT STATUS:1
+====end test===
+====begin test:784====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:785====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:786====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-94)
+EXIT STATUS:1
+====end test===
+====begin test:787====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-92)
+EXIT STATUS:1
+====end test===
+====begin test:788====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-19)
+EXIT STATUS:1
+====end test===
+====begin test:789====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-39)
+EXIT STATUS:1
+====end test===
+====begin test:790====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-38)
+EXIT STATUS:1
+====end test===
+====begin test:791====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-96)
+EXIT STATUS:1
+====end test===
+====begin test:792====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:793====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:794====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:795====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:796====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-92)
+EXIT STATUS:1
+====end test===
+====begin test:797====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-3)
+EXIT STATUS:1
+====end test===
+====begin test:798====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:799====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:800====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:801====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-88)
+EXIT STATUS:1
+====end test===
+====begin test:802====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:803====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-56)
+EXIT STATUS:1
+====end test===
+====begin test:804====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-14)
+EXIT STATUS:1
+====end test===
+====begin test:805====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:806====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:807====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:808====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:809====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:810====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-91)
+EXIT STATUS:1
+====end test===
+====begin test:811====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-26)
+EXIT STATUS:1
+====end test===
+====begin test:812====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:813====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:814====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:815====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:816====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-91)
+EXIT STATUS:1
+====end test===
+====begin test:817====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:818====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:819====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-13)
+EXIT STATUS:1
+====end test===
+====begin test:820====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:821====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-52)
+EXIT STATUS:1
+====end test===
+====begin test:822====
+EXIT STATUS:124
+====end test===
+====begin test:823====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-43)
+EXIT STATUS:1
+====end test===
+====begin test:824====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:825====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-16)
+EXIT STATUS:1
+====end test===
+====begin test:826====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:827====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-47)
+EXIT STATUS:1
+====end test===
+====begin test:828====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-35)
+EXIT STATUS:1
+====end test===
+====begin test:829====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:830====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:831====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:832====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:833====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:834====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-92)
+EXIT STATUS:1
+====end test===
+====begin test:835====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:836====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-27)
+EXIT STATUS:1
+====end test===
+====begin test:837====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:838====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:839====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-99)
+EXIT STATUS:1
+====end test===
+====begin test:840====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:841====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-56)
+EXIT STATUS:1
+====end test===
+====begin test:842====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-88)
+EXIT STATUS:1
+====end test===
+====begin test:843====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:844====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-25)
+EXIT STATUS:1
+====end test===
+====begin test:845====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:846====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-28)
+EXIT STATUS:1
+====end test===
+====begin test:847====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-98)
+EXIT STATUS:1
+====end test===
+====begin test:848====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-11)
+EXIT STATUS:1
+====end test===
+====begin test:849====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:850====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-51)
+EXIT STATUS:1
+====end test===
+====begin test:851====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:852====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:853====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-66)
+EXIT STATUS:1
+====end test===
+====begin test:854====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:855====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:856====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:857====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-14)
+EXIT STATUS:1
+====end test===
+====begin test:858====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:859====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-41)
+EXIT STATUS:1
+====end test===
+====begin test:860====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:861====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:862====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:863====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:864====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-60)
+EXIT STATUS:1
+====end test===
+====begin test:865====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-58)
+EXIT STATUS:1
+====end test===
+====begin test:866====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:867====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:868====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-90)
+EXIT STATUS:1
+====end test===
+====begin test:869====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-21)
+EXIT STATUS:1
+====end test===
+====begin test:870====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:871====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-66)
+EXIT STATUS:1
+====end test===
+====begin test:872====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-85)
+EXIT STATUS:1
+====end test===
+====begin test:873====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:874====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-2)
+EXIT STATUS:1
+====end test===
+====begin test:875====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-97)
+EXIT STATUS:1
+====end test===
+====begin test:876====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:877====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-34)
+EXIT STATUS:1
+====end test===
+====begin test:878====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:879====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:880====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-50)
+EXIT STATUS:1
+====end test===
+====begin test:881====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:882====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-91)
+EXIT STATUS:1
+====end test===
+====begin test:883====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-78)
+EXIT STATUS:1
+====end test===
+====begin test:884====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-55)
+EXIT STATUS:1
+====end test===
+====begin test:885====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:886====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:887====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-100)
+EXIT STATUS:1
+====end test===
+====begin test:888====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-100)
+EXIT STATUS:1
+====end test===
+====begin test:889====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-18)
+EXIT STATUS:1
+====end test===
+====begin test:890====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:891====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:892====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-82)
+EXIT STATUS:1
+====end test===
+====begin test:893====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:894====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-31)
+EXIT STATUS:1
+====end test===
+====begin test:895====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:896====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-26)
+EXIT STATUS:1
+====end test===
+====begin test:897====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:898====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:899====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:900====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:901====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:902====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:903====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:904====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:905====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-1)
+EXIT STATUS:1
+====end test===
+====begin test:906====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:907====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:908====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:909====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-4)
+EXIT STATUS:1
+====end test===
+====begin test:910====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:911====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-20)
+EXIT STATUS:1
+====end test===
+====begin test:912====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-28)
+EXIT STATUS:1
+====end test===
+====begin test:913====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:914====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-80)
+EXIT STATUS:1
+====end test===
+====begin test:915====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:916====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:917====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:918====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:919====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-13)
+EXIT STATUS:1
+====end test===
+====begin test:920====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:921====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-38)
+EXIT STATUS:1
+====end test===
+====begin test:922====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-29)
+EXIT STATUS:1
+====end test===
+====begin test:923====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:924====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:925====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:926====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:927====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:928====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:929====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-46)
+EXIT STATUS:1
+====end test===
+====begin test:930====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:931====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-18)
+EXIT STATUS:1
+====end test===
+====begin test:932====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:933====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-89)
+EXIT STATUS:1
+====end test===
+====begin test:934====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:935====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:936====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:937====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-1)
+EXIT STATUS:1
+====end test===
+====begin test:938====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-80)
+EXIT STATUS:1
+====end test===
+====begin test:939====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:940====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-56)
+EXIT STATUS:1
+====end test===
+====begin test:941====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:942====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-76)
+EXIT STATUS:1
+====end test===
+====begin test:943====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:944====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-7)
+EXIT STATUS:1
+====end test===
+====begin test:945====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-51)
+EXIT STATUS:1
+====end test===
+====begin test:946====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-82)
+EXIT STATUS:1
+====end test===
+====begin test:947====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:948====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-20)
+EXIT STATUS:1
+====end test===
+====begin test:949====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-82)
+EXIT STATUS:1
+====end test===
+====begin test:950====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-85)
+EXIT STATUS:1
+====end test===
+====begin test:951====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-72)
+EXIT STATUS:1
+====end test===
+====begin test:952====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-27)
+EXIT STATUS:1
+====end test===
+====begin test:953====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:954====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:955====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:956====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-58)
+EXIT STATUS:1
+====end test===
+====begin test:957====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-46)
+EXIT STATUS:1
+====end test===
+====begin test:958====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-10)
+EXIT STATUS:1
+====end test===
+====begin test:959====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:960====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:961====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-100)
+EXIT STATUS:1
+====end test===
+====begin test:962====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:963====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:964====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:965====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:966====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-30)
+EXIT STATUS:1
+====end test===
+====begin test:967====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:968====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-66)
+EXIT STATUS:1
+====end test===
+====begin test:969====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:970====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-45)
+EXIT STATUS:1
+====end test===
+====begin test:971====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:972====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:973====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:974====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:975====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:976====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:977====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-81)
+EXIT STATUS:1
+====end test===
+====begin test:978====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:979====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:980====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:981====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:982====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:983====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:984====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-62)
+EXIT STATUS:1
+====end test===
+====begin test:985====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:986====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:987====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:988====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:989====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-60)
+EXIT STATUS:1
+====end test===
+====begin test:990====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:991====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-6)
+EXIT STATUS:1
+====end test===
+====begin test:992====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:993====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+select.error: (9, 'Bad file descriptor')
+EXIT STATUS:1
+====end test===
+====begin test:994====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-59)
+EXIT STATUS:1
+====end test===
+====begin test:995====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: read length must be positive
+EXIT STATUS:1
+====end test===
+====begin test:996====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-85)
+EXIT STATUS:1
+====end test===
+====begin test:997====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-70)
+EXIT STATUS:1
+====end test===
+====begin test:998====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-49)
+EXIT STATUS:1
+====end test===
+====begin test:999====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-64)
+EXIT STATUS:1
+====end test===
+====begin test:1000====
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: file descriptor cannot be a negative integer (-13)
+EXIT STATUS:1
+====end test===

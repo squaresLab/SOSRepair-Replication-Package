@@ -1,0 +1,2 @@
+Put the run-tests.sh script inside the tools directory.
+Run the tests by executing the run-tests.sh script using command: bash run-tests.sh

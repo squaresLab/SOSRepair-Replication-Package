@@ -1,0 +1,7 @@
+The file testcgi.t is the main driver program. 
+
+copy files test-cgi1.pl  test-cgi2.pl  test-cgi3.pl to location ./src/tests/tmp/lighttpd/servers/www.example.org/pages/
+and put driver program testcgi.t under src/tests/
+
+set executable permissions to driver program and run driver program using ./testcgi.t
+

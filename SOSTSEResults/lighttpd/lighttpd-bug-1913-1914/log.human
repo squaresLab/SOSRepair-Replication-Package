@@ -1,0 +1,18 @@
+1..12
+mod_proxy_core_address.c.158: (trace) resolving 127.0.0.1 on port 1026
+mod_proxy_core_address.c.63: (trace) adding 127.0.0.1:1026 to the address-pool
+mod_proxy_core_address.c.158: (trace) resolving 127.0.0.1 on port 1026
+mod_proxy_core_address.c.63: (trace) adding 127.0.0.1:1026 to the address-pool
+2019-09-10 23:47:08: (server.c.1445) WARNING: unknown config-key: auth.backend.ldap.url (ignored) 
+ok 1 - Starting lighttpd
+ok 2 - test2
+ok 3 - test3
+ok 4 - test4
+ok 5 - test5
+ok 6 - test6
+ok 7 - test7
+ok 8 - test8
+ok 9 - test9
+ok 10 - test10
+ok 11 - test11
+ok 12 - Stopping lighttpd
