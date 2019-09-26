@@ -1,2 +1,6 @@
 Put the run-tests.sh script inside the tools directory.
 Run the tests by executing the run-tests.sh script using command: bash run-tests.sh
+
+To compute the quality of the patches using existing execution logs, 
+uncompress the .bz2 files and then using compare.py script to compare
+the tool's log against the log generated using developer-patched version (log.human)
