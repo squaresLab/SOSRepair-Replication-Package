@@ -1,0 +1,7 @@
+Since prophet and sos modify different program files, we have two separate held-out tests (run-tests.sh and run-tests-prophet.sh) 
+corresponding to the respective modified programs and hence two oracles (log.human-sos and log.human-prophet).
+
+Run the test scripts using cmd: bash run-tests.sh 
+Run the prophet modified program tests using cmd: bash run-tests-prophet.sh 
+
+

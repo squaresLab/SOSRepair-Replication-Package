@@ -211,6 +211,10 @@ mpn_powm (mp_ptr rp, mp_srcptr bp, mp_size_t bn,
 
   b2p = tp + 2*n;
 
+;
+      TMP_SMARK;
+      b2p = TMP_SALLOC_LIMBS (mpn_toom44_mul_itch (n, n));
+
   /* Store b^2 in b2.  */
   mpn_sqr (tp, this_pp, n);
 #if WANT_REDC_2
@@ -250,8 +254,8 @@ mpn_powm (mp_ptr rp, mp_srcptr bp, mp_size_t bn,
     ebi -= windowsize;
 
   count_trailing_zeros (cnt, expbits);
-  exit (cnt);
-;
+  ebi += cnt;
+  expbits >>= cnt;
 
   MPN_COPY (rp, pp + n * (expbits >> 1), n);
 
