@@ -52,4 +52,5 @@ if not cmp(oracle_result.keys(),apr_result.keys()):
     totaltests = testspass + testsfail
     print("TOTAL TESTS: ", totaltests, "PASSING TESTS: ", testspass, " FAILING TESTS: ", testsfail, " PASS%: ", (float(testspass)/float(totaltests))*100)
 else:
-    print "TEST CASES DIFFER!"
+    print("TEST CASES DIFFER!")
+	 
