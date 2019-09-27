@@ -1,6 +1,0 @@
-put run-tests.sh script in src/sapi/cli folder
-
-run the tests by executing the run-tests.sh script using
-
-bash run-tests.sh
-

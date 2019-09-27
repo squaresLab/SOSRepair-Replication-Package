@@ -1,9 +1,0 @@
-Identify the location of php.ini file used by running ./php -r "echo phpinfo();"
-make changes to the php.ini file to allow creating phar by uncommenting and setting "phar.readonly = Off" 
-make sure that Phar setting are updated by checking the output of ./php -r "echo phpinfo();"
-
-
-copy the driver files buggy.php, correct.php, createphar.php, getcontents.php, getpharsignature.php, index.php 
-and run-tests.sh script inside src/sapi/cli directory
-
-execute the tests by running the run-tests.sh script using cmd: bash run-tests.sh

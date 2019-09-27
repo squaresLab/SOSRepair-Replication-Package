@@ -1,2 +1,0 @@
-Put the driver file test_zend_variables.php and the script run-tests.sh in src/sapi/cli folder.
-Execute the tests by running the script using cmd: bash run-tests.sh
