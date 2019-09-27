@@ -1,4 +1,4 @@
-# SOSRepair-Replication-Package
+# SOSRepair Replication Package
 
 This repository consists of patches and independent tests generated during evaluation of [SOSRepair](https://github.com/squaresLab/SOSRepair) on ManyBugs scenarios as well as scripts used to run the scenarios with [BugZoo](https://github.com/squaresLab/BugZoo).
 
