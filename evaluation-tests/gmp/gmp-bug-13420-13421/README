@@ -5,10 +5,11 @@ compile driver using following two commands
 gcc -std=gnu99 -DHAVE_CONFIG_H -I. -I. -O2 -pedantic -m64 -mtune=k8 -march=k8 -c testpowm.c
 /bin/sh libtool --tag=CC --mode=link gcc -std=gnu99  -O2 -pedantic -m64 -mtune=k8 -march=k8 -o testpowm testpowm.o .libs/libgmp.la
 
-.gcda for the source file mpn/generic/powm.c is generated under mpn/.libs directory so to measure the coverage copy the source file (mpn/generic/powm.c) to mpn/.libs directory and run the following command
-
+For coverage, .gcda for the source file mpn/generic/powm.c is generated under mpn/.libs directory so 
+to measure the coverage copy the source file (mpn/generic/powm.c) to mpn/.libs directory and run the following command
 gcov -f powm.c 
 
+Execute the tests by running the run-tests.sh script using cmd: bash run-tests.sh
 
 
 
