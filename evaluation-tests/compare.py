@@ -1,3 +1,10 @@
+#####################################################################################################################
+# The purpose of this script is to compute the quality of the patched produced by repair tools.
+# Input: test execution log of developer-patched program (oracle), test execution log of repair tool-patched program
+# Output: test ID of failing tests, the number of passing and failing tests, and the percentage of tests passed.
+# Example cmd to run this script: python compare.py log.human log.sos
+####################################################################################################################
+
 import sys
 
 human_log_path = sys.argv[1]
@@ -40,9 +47,9 @@ if not cmp(oracle_result.keys(),apr_result.keys()):
         if oracle_result[testid] == apr_result[testid] or ("Premature EOL at line" in oracle_result[testid] and "Premature EOL at line" in apr_result[testid])  or  ("core dumped" in oracle_result[testid] and "core dumped" in apr_result[testid]) or ("Segmentation fault" in oracle_result[testid] and "Segmentation fault" in apr_result[testid]) or ("Aborted" in oracle_result[testid] and "run-tests.sh" in oracle_result[testid] and "Aborted" in apr_result[testid] and "run-tests.sh" in apr_result[testid]) or ("Bad value" in oracle_result[testid] and "Bad value" in apr_result[testid]): # or ("Warning, incorrect count for field" in oracle_result[testid] and "Warning, incorrect count for field" in apr_result[testid]):
             testspass += 1
         else:
-	    print testid	
+	    print("Failed test: ", testid)	
             testsfail += 1
     totaltests = testspass + testsfail
-    print "TOTAL TESTS: ", totaltests, "PASSING TESTS: ", testspass, " FAILING TESTS: ", testsfail, " PASS%: ", (float(testspass)/float(totaltests))*100
+    print("TOTAL TESTS: ", totaltests, "PASSING TESTS: ", testspass, " FAILING TESTS: ", testsfail, " PASS%: ", (float(testspass)/float(totaltests))*100)
 else:
     print "TEST CASES DIFFER!"
