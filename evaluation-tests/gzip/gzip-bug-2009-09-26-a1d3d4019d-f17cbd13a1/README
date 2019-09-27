@@ -1,3 +1,5 @@
 some of the tests output garbage data which is different in every execution 
 hence while comparing the logs we consider the output of such tests as same. 
-triggertest.sh contains a testcase that triggers the bug. 
+
+put the file run-tests.sh in the src directory and execute it using cmd:
+bash run-tests.sh
