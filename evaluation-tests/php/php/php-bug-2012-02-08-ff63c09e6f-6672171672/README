@@ -1,6 +1,0 @@
-This test suite requires setting the value of variable max_input_nesting_level = 2 in php.ini-development file 
-and copying php.ini-development file to /usr/local/lib/php.ini
- 
-Copy all the test files (test<n>.php) and run-tests.sh script to src/sapi/cli folder.
-
-Execute run-tests.sh script using cmd: bash run-tests.sh 

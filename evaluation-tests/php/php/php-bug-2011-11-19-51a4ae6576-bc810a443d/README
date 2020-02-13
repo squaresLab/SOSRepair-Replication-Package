@@ -1,3 +1,0 @@
-Copy the files testinheritance<n>.php and run-tests.sh to src/sapi/cli folder
-
-Run the tests by executing the run-tests.sh script using cmd: bash run-tests.sh

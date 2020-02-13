@@ -1,2 +1,0 @@
-put all the driver files (*.php) and the script run-tests.sh in src/sapi/cli folder 
-execute the tests by running the script using cmd: bash run-tests.sh

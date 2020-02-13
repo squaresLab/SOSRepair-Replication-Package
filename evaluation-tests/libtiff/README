@@ -1,0 +1,5 @@
+Some of the scenarios use the images to run the tests. 
+
+Please download the images from https://drive.google.com/file/d/1vH_ZcH-ATOzVA1g_2RydPyeF_p6YdMAu/view?usp=sharing
+
+Update the path to the TestImages folder inside run-tests.sh script before running the tests.

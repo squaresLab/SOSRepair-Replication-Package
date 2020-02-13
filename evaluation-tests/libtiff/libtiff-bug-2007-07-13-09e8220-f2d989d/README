@@ -1,3 +1,3 @@
 Put the files test_read.c and run-tests.sh inside the tools directory.
-Update the Makefile inside the tools directory to compile test_read.c (see Makefile for referece)
+Update the Makefile inside the tools directory to compile test_read.c (see Makefile for reference)
 Run the tests by executing the run-tests.sh script using command: bash run-tests.sh

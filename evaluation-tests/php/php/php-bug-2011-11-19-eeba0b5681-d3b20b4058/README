@@ -1,7 +1,0 @@
-Put all the driver files (correct.php, createphar.php, getcontents.php) and run-tests.sh script in src/sapi/cli folder
-Set the value of variable phar.readonly = False in php.ini-development file and 
-copy php.ini-development file to /usr/local/lib/php.ini.
-
-Execute the run-tests.sh script using command: bash run-tests.sh 
-
- 
